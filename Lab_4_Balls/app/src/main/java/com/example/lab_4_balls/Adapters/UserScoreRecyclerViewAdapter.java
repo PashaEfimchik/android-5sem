@@ -10,11 +10,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.lab_4_balls.Activities.ScoresActivity;
 import com.example.lab_4_balls.Models.UserScore;
 import com.example.lab_4_balls.R;
-
-import org.w3c.dom.Text;
 
 import java.util.ArrayList;
 

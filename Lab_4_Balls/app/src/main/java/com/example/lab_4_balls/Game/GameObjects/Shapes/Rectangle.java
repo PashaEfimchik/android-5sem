@@ -40,7 +40,6 @@ public class Rectangle extends Shape {
         float vX = this.x-width/2;
         float vY = this.y-height/2;
 
-        // to new coordinates system with center (this.x - width/2, this.y - height/2)
         float newX = x - vX;
         float newY = y - vY;
 
